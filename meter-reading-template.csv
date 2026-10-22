@@ -1,0 +1,5 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+meter_id,plant_area,feeder,timestamp,kwh_accumulated,instantaneous_kw,voltage_v,current_a,power_factor,reading_quality
